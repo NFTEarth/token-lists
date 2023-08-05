@@ -1,0 +1,126 @@
+{
+    "name": "LayerZero Omnichain Fungible Token List",
+    "logoURI": "ipfs://bafkreidiieiod4wdntppqkg7ok3edn33o6sqdqvn545hg3dxy5zamqu2lu",
+    "keywords": [
+      "omnichain",
+      "oft",
+      "layer zero"
+    ],
+    "tags": {
+      "oft": {
+        "name": "Oft",
+        "description": "Tokens that are built from the Layer Zero Omnichain Fungible Token standard."
+      },
+      "nftearth": {
+        "name": "NFTEarth",
+        "description": "NFTE omnichain token deployments using the OFT standard."
+      }
+    },
+    "timestamp": "2023-08-05T00:00:00+00:00",
+    "tokens": [
+      {
+        "chainId": 1,
+        "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+        "symbol": "NFTE",
+        "name": "NFTEarthOFT",
+        "decimals": 18,
+        "logoURI": "ipfs://bafkreicjdhoci4joxmkmykqimmh3ha3zdqa6ymn4hke7dpgmymaxgvxcua",
+        "tags": [
+          "oft"
+        ]
+      },
+      {
+        "chainId": 10,
+        "address": "0x39AA39c021dfbaE8faC545936693aC917d5E7563",
+        "symbol": "NFTE",
+        "name": "NFTEarthOFT",
+        "decimals": 18,
+        "logoURI": "ipfs://bafkreicjdhoci4joxmkmykqimmh3ha3zdqa6ymn4hke7dpgmymaxgvxcua",
+        "tags": [
+          "oft"
+        ]
+      },
+      {
+        "chainId": 42161,
+        "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+        "symbol": "NFTE",
+        "name": "NFTEarthOFT",
+        "decimals": 18,
+        "logoURI": "ipfs://bafkreicjdhoci4joxmkmykqimmh3ha3zdqa6ymn4hke7dpgmymaxgvxcua",
+        "tags": [
+          "oft"
+        ]
+      },
+      {
+        "chainId": 56,
+        "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+        "symbol": "NFTE",
+        "name": "NFTEarthOFT",
+        "decimals": 18,
+        "logoURI": "ipfs://bafkreicjdhoci4joxmkmykqimmh3ha3zdqa6ymn4hke7dpgmymaxgvxcua",
+        "tags": [
+          "oft"
+        ]
+      },
+      {
+        "chainId": 137,
+        "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+        "symbol": "NFTE",
+        "name": "NFTEarthOFT",
+        "decimals": 18,
+        "logoURI": "ipfs://bafkreicjdhoci4joxmkmykqimmh3ha3zdqa6ymn4hke7dpgmymaxgvxcua",
+        "tags": [
+          "oft"
+        ]
+      },
+      {
+        "chainId": 43114,
+        "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+        "symbol": "NFTE",
+        "name": "NFTEarthOFT",
+        "decimals": 18,
+        "logoURI": "ipfs://bafkreicjdhoci4joxmkmykqimmh3ha3zdqa6ymn4hke7dpgmymaxgvxcua",
+        "tags": [
+          "oft"
+        ]
+      },
+      {
+        "chainId": 5000,
+        "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+        "symbol": "NFTE",
+        "name": "NFTEarthOFT",
+        "decimals": 18,
+        "logoURI": "ipfs://bafkreicjdhoci4joxmkmykqimmh3ha3zdqa6ymn4hke7dpgmymaxgvxcua",
+        "tags": [
+          "oft"
+        ]
+      },
+      {
+        "chainId": 8453,
+        "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+        "symbol": "NFTE",
+        "name": "NFTEarthOFT",
+        "decimals": 18,
+        "logoURI": "ipfs://bafkreicjdhoci4joxmkmykqimmh3ha3zdqa6ymn4hke7dpgmymaxgvxcua",
+        "tags": [
+          "oft"
+        ]
+      },
+      {
+        "chainId": 59144,
+        "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+        "symbol": "NFTE",
+        "name": "NFTEarthOFT",
+        "decimals": 18,
+        "logoURI": "ipfs://bafkreicjdhoci4joxmkmykqimmh3ha3zdqa6ymn4hke7dpgmymaxgvxcua",
+        "tags": [
+          "oft"
+        ]
+      }
+    ],
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "patch": 0
+    }
+  }
